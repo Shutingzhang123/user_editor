@@ -1,0 +1,23 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [8,2],
+    "Body": [
+     "","en-US",
+     "Delete","Delete",
+     "Groups","Groups",
+     "Create","Create",
+     "Cancel","Cancel",
+     "Name","Name",
+     "Apply","Apply",
+     "Locale:","Locale:"
+    ]
+   }

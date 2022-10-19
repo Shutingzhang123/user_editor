@@ -1,0 +1,13 @@
+Name: Groups
+Id: g=ef5827d758dfb5a6c724bd1010631527
+Type: FolderType
+Children:
+- Name: GroupA
+  Id: g=cc6a16239d3157ae4bc8352ab721275b
+  Type: GroupType
+- Name: GroupB
+  Id: g=f1c96a5d04cb82227c6e2a6a7641022a
+  Type: GroupType
+- Name: GroupC
+  Id: g=6994f55e672d0f46d0a00aeb34a1d0b2
+  Type: GroupType
